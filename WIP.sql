@@ -1,7 +1,7 @@
--- MY SQL Notes and Examples 5
+-- MY SQL Notes and Examples 6
 
 use AdventureWorksLT2022;
-
+ 
 select top(100) 
     pr.ProductNumber,
     pr.Name,
